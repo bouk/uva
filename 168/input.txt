@@ -1,0 +1,3 @@
+A:BCD;B:AD;D:BG;F:H;G:DEH;E:FGH;H:EG;C:AD. A C 3
+A:B;B:C;C:D;D:E;E:F;F:G;G:H;H:I;I:J;J:K;K:L;L:M;M:N;N:Z. B A 20
+#
